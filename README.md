@@ -13,4 +13,5 @@ Fade: Straightforward fade from one image to another.
 Moving Checkerboard: The transition occurs through a moving checkerboard pattern.  
 
 ## Effects
-Not-Green Screen: In-progress effect to achieve a green screen effect without the use of a green screen.
+Grayscale: Removes color from a series of images
+Not-Green Screen: In-progress effort to achieve a green screen effect without the use of a green screen.
