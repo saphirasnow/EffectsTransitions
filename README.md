@@ -5,7 +5,7 @@ Effects and transitions I've made for my AMVs.
 ### Feathered:
 Wipe: Wipe at any angle across the screen.  
 Circular Iris: The image is revealed as a circular hole grows in the center of the frame.  
-Midsweep: Windshield wipe from the top of the frame. (note: reccommended smaller feather value than the others!)  
+Midsweep: Windshield wipe from the top of the frame. (note: recommended smaller feather value than the others!)  
 Halfwidth Wipe: Perform the wipe from opposite directions, splitting the frame in half.  
 
 ### Not Feathered:
