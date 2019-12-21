@@ -14,4 +14,4 @@ Moving Checkerboard: The transition occurs through a moving checkerboard pattern
 
 ## Effects
 Grayscale: Removes color from a series of images.  
-Not-Green Screen: In-progress effort to achieve a green screen effect without the use of a green screen.
+Not-Green Screen: In-progress effort to achieve a chroma key effect without the use of a green screen.
